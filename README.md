@@ -1,3 +1,3 @@
 This is a starter template for [Learn Next.js](https://nextjs.org/learn).
 
-New site for my grand mother's association for preserving and restoring an old chapel from middle age.
+New site for my grandmother's association, for preserving and restoring an old chapel from XIIth century .
