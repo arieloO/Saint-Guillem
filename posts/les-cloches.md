@@ -27,10 +27,8 @@ La cloche campanaire
 alt
 src="/images/p4140885.jpg"
 style="
-margin: 5px;
+margin: 4px;
 float: left;
-width: 160px;
-height: 12px;"
 />
 
 En bronze, datée 1876, elle a été fabriquée à Toulouse par le fondeur PELLEGRIN. Elle est ornée d’une frise de fleurs de lys,de la Vierge d’un côté et du Christ de l’autre. De plus, elle porte le nom de sadonatrice MARIE VILANOVA ROIG.

@@ -31,5 +31,7 @@ En ce qui concerne l’ermitage de St Guillem, l’Inspecteur des Eaux et Forêt
 Archives Départementales série1301/w/5-36-38-136.
 
 Henri Loreto
+
 Huitième Page d'histoire n°8
+
 mai 2016

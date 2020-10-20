@@ -25,12 +25,10 @@ export default function Layout({ children, home }) {
       <NavBar />
       <Header />
       
-      <main style={{
-        display: "flex",
-        flexDirection: "row"
-      }} >
-        <SideBar />
-        {children}
+      <main>
+        <div className={styles.wrapper}>
+          {children}
+        </div>
       </main>
       <div className={styles.backToHome}>
           <Link href="/">

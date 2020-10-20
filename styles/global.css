@@ -10,13 +10,20 @@ body {
 }
 body {
   width: 100%;
+  background-attachment: fixed;
+  background-image: url("/images/chapelle.jpg");
+  background-size: cover;
+  background-position: center;
 }
 
 * {
 }
 
 main {
-  background-color: rgba(0, 0, 0, 0.11);
+  background-color: ;
+}
+
+p {
 }
 
 a {
@@ -30,5 +37,25 @@ a:hover {
 
 img {
   max-width: 100%;
+
   display: block;
+}
+
+.article-img-cover {
+  border-radius: 2px;
+  margin: 4px auto;
+}
+
+.article-img-float-left {
+  max-width: 25vw;
+  border-radius: 2px;
+  padding: 4px;
+  margin-right: 14px;
+  float: left;
+}
+
+.article-img-float-right {
+  border-radius: 2px;
+  margin: 4px auto;
+  float: right;
 }
