@@ -23,18 +23,20 @@ export default function Layout({ children, home }) {
     />
       </Head>
       <NavBar />
-      <Header />
+      {/* <Header /> */}
       
       <main>
+      
         <div className={styles.wrapper}>
           {children}
+          <div className={styles.backToHome}>
+            <Link href="/">
+              <a>← Retour à l'accueil</a>
+            </Link>
+          </div>
         </div>
       </main>
-      <div className={styles.backToHome}>
-          <Link href="/">
-            <a>← Back to home</a>
-          </Link>
-        </div>
+
       <footer></footer>
     </div>
   );

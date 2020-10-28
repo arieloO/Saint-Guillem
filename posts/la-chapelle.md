@@ -4,8 +4,6 @@ date: "2014-02-11"
 tags: ["histoire"]
 ---
 
-# LA CHAPELLE
-
 #### Pages d'histoire n°1
 
 La chapelle actuelle de Sant Guillem de Combret (XII°s.) est un agrandissement in situ d’une première chapelle datable de la fin du X°s. en témoigne hautement la cloche en fer forgé parvenue intacte jusqu’à nous (actuellement en dépôt au CG à Perpignan).

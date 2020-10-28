@@ -23,9 +23,10 @@
   flex-direction: column;
   align-content: center;
   align-items: center;
-  text-align: justify;
+  text-align: left;
+  min-width: 320px;
   width: 50vw;
-  min-width: ;
+  max-width: 960px;
   margin: 0 auto;
   padding: 2vw 4vw;
   backdrop-filter: blur(6px);
