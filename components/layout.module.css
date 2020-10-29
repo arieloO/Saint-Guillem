@@ -24,6 +24,10 @@
   align-content: center;
   align-items: center;
   text-align: left;
+  word-break: break-all;
+  -webkit-hyphens: auto;
+  -moz-hyphens: auto;
+  hyphens: auto;
   min-width: 320px;
   width: 50vw;
   max-width: 960px;
