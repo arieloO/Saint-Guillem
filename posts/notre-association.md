@@ -1,7 +1,8 @@
 ---
 title: "Notre association"
 date: "2012-07-14"
-tags: ["Qui sommes nous"]
+image: null
+tags: ["Qui sommes-nous"]
 ---
 
 # NOTRE ASSOCIATION

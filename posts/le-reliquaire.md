@@ -1,6 +1,7 @@
 ---
 title: "Reliquaire"
 date: "2016-06-25"
+image: null
 tags: ["mobilier"]
 ---
 

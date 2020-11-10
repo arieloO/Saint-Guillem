@@ -1,16 +1,17 @@
 ---
 title: "vierge à l'enfant"
 date: "2020-05-11"
+image: "/images/vierge-xiva-s-in-situ.jpg"
 tags: ["histoire", "mobilier"]
 ---
 
-# VIERGE à L’ENFANT de SANT GUILLEM
+# Vièrge à l'enfant de Sant-Guillem
 
 Bois polychrome début XIV°s
 Selon les Evangiles, Marie est la Vierge qui, par l’opération du Saint Esprit, a conçu le Messie, Fils de Dieu.
 L’art roman aime représenter Marie assise en majesté, l’Enfant sur les genoux. Elle est représentée de front, personnifiant elle-même le trône de l’Enfant, Trône de la Sagesse.
 
-Chez nous, en Catalogne, à partir du XIII°s, les ateliers commencent à s’inspirer du courant gothique où l’Enfant est porté sur le bras gauche de Marie, toujours assise. Pour parler de cette époque, les historiens de l’art, dans leurs analyses, hésitent entre « art roman tardif » et « gothique catalan ».Notre statue s’inscrit parfaitement dans ce cadre.
+Chez nous, en Catalogne, à partir du XIII°s, les ateliers commencent à s’inspirer du courant gothique où l’Enfant est porté sur le bras gauche de Marie, toujours assise. Pour parler de cette époque, les historiens de l’art, dans leurs analyses, hésitent entre « art roman tardif » et « gothique catalan ». Notre statue s’inscrit parfaitement dans ce cadre.
 
 L’art gothique triomphant représentera bientôt Marie debout, toujours souriante, portant l’Enfant sur le bras, Enfant lui-même souriant avec un geste affectueux envers sa mère. Et ce sera l’expression du réalisme arrivé dans l’art chrétien. En témoignent également les Vierges allaitant.
 

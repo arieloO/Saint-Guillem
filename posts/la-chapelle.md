@@ -1,6 +1,7 @@
 ---
 title: "La Chapelle"
 date: "2014-02-11"
+image: null
 tags: ["histoire"]
 ---
 
@@ -14,9 +15,9 @@ Montagne peuplée donc et ce depuis l’Antiquité tardive et le plus haut moyen
 
 Notre Haut Vallespir a donc bien été une montagne refuge et notre ermitage bien au chœur du travail des hommes (jusqu’à la triste époque des expropriations des années 50).
 
-Dès 1172 un document mentionne trois manses (exploitations agricoles=mas) dans la basse Comalada (nom de la rivière). Un deuxième document daté du 1° octobre 1195 est des plus précieux, il précise que l’évêque d’Elne fait donation au monastère d’Arles « de la chapelle Sainte Marie Madeleine et Saint Guillem, sise dans le comté de Besalu, avec ses droits actuels et futurs… ». Un document précise encore que le desservant de la chapelle devait annuellement s’acquiter d’une redevance due à l’abbé d’Arles consistant en « une poule pour la vigne qu’il tenait en ce lieu ».
+Dès 1172 un document mentionne trois manses (exploitations agricoles = mas) dans la basse Comalada (nom de la rivière). Un deuxième document daté du 1° octobre 1195 est des plus précieux, il précise que l’évêque d’Elne fait donation au monastère d’Arles « de la chapelle Sainte Marie Madeleine et Saint Guillem, sise dans le comté de Besalu, avec ses droits actuels et futurs… ». Un document précise encore que le desservant de la chapelle devait annuellement s’acquiter d’une redevance due à l’abbé d’Arles consistant en « une poule pour la vigne qu’il tenait en ce lieu ».
 
-On faisait donc un peu de vin à Sant Guillem …un jour, rêvons un peu, nous y ré-adapterons un cépage spécial, comme en Cerdagne à Ste Léocadie…
+On faisait donc un peu de vin à Sant Guillem… un jour, rêvons un peu, nous y ré-adapterons un cépage spécial, comme en Cerdagne à Ste Léocadie…
 
 Loreto Henri
 Première page d'histoire

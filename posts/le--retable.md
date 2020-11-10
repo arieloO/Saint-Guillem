@@ -1,19 +1,20 @@
 ---
-title: "Retable"
+title: "Le retable"
 date: "2019-07-01"
+image: null
 tags: ["restaurations"]
 ---
-
-Caterina AGUER SUBIRÓS, restauratrice d’œuvres d’art de Gérone, est chargée de la restauration du retable.
-
-La Direction de la Culture et du Patrimoine Région Occitanie,
-le Conseil Régional, le Conseil Départemental, la Commune de Le Tech et l'Association de Sauvegarde se sont associés pour réunir les 12 092 € TTC du coût des travaux.
 
 <img
   alt="Retable avant restaurations"
   src="/images/00104-dscf5649-jpg.jpg"
   class="article-img-cover"
 />
+
+Caterina AGUER SUBIRÓS, restauratrice d’œuvres d’art de Gérone, est chargée de la restauration du retable.
+
+La Direction de la Culture et du Patrimoine Région Occitanie,
+le Conseil Régional, le Conseil Départemental, la Commune de Le Tech et l'Association de Sauvegarde se sont associés pour réunir les 12 092 € TTC du coût des travaux.
 
 La dépose et le transport du retable en atelier ont été réalisés le 9 novembre 2018
 

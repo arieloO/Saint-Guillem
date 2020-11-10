@@ -1,6 +1,7 @@
 ---
 title: "les cloches"
 date: "2014-05-13"
+image: "/images/la-cloche-en-fer-forga-x-xia-s.jpg"
 tags: ["histoire"]
 ---
 
@@ -31,13 +32,13 @@ Pourtant, au début du XI°s, les cloches en bronze étaient déjà utilisées, 
 <img
 title="La cloche campanaire"
 alt="Cloche campanaire, fin XIXe, 1876"
-src="/images/p4140885.jpg"
+src="/images/cloches/p4140885.jpg"
 class="article-img-float-right"
 />
 
-En bronze, datée 1876, elle a été fabriquée à Toulouse par le fondeur PELLEGRIN. Elle est ornée d’une frise de fleurs de lys,de la Vierge d’un côté et du Christ de l’autre. De plus, elle porte le nom de sadonatrice MARIE VILANOVA ROIG.
+En bronze, datée 1876, elle a été fabriquée à Toulouse par le fondeur PELLEGRIN. Elle est ornée d’une frise de fleurs de lys, de la Vierge d’un côté et du Christ de l’autre. De plus, elle porte le nom de sa donatrice MARIE VILANOVA ROIG.
 
-L’histoire des cloches (bronze à l’origine) est riche de plusieurs millénaires. Dans le Caucase et en Afghanistan les fouilles archéologiques ont mis au jour des clochettes datables du III° millénaire av. J.C. (Notons au passage que la métallurgie du fer s’est également développée dans cette même Asie Mineure dès la fin du II° millénaire.)
+L’histoire des cloches (en bronze à l’origine) est riche de plusieurs millénaires. Dans le Caucase et en Afghanistan les fouilles archéologiques ont mis au jour des clochettes datables du III° millénaire av. J.C. (Notons au passage que la métallurgie du fer s’est également développée dans cette même Asie Mineure dès la fin du II° millénaire.)
 
 A l’origine, les cloches étaient utilisées pour les communautés monastiques, puis, rapidement, pour les communautés villageoises, et ce pour leur fonction d’appel: appel à la prière et divers rassemblements liturgiques (messes, baptêmes, mariages, décès). Avec le tocsin, c’était alors l’annonce du danger et de la fuite.
 
@@ -45,4 +46,4 @@ Ainsi la cloche est voix de Dieu et expression aussi de nos joies et de nos pein
 
 Henri Loreto
 
-4ième page d'histoire
+4ème page d'histoire

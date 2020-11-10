@@ -1,6 +1,7 @@
 ---
 title: "objets non classés"
 date: "2014-04-04"
+image: null
 tags: ["mobilier", "autre"]
 ---
 

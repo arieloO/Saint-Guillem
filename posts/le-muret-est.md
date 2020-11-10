@@ -1,6 +1,7 @@
 ---
 title: "Muret Est"
 date: "2018-07-24"
+image: null
 tags: ["restaurations"]
 ---
 

@@ -1,6 +1,7 @@
 ---
 title: "Clocheton"
 date: "2016-05-16"
+image: null
 tags: ["restaurations"]
 ---
 

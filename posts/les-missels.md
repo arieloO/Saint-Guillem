@@ -1,6 +1,7 @@
 ---
 title: "les missels"
 date: "2013-12-16"
+image: null
 tags: ["histoire", "mobilier"]
 ---
 

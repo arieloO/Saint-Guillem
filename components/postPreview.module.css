@@ -1,0 +1,29 @@
+.previewList {
+  display: flex;
+  flex-direction: column;
+}
+
+.previewDiv {
+  cursor: pointer;
+  display: flex;
+  flex-direction: row;
+  justify-content: flex-start;
+  padding: 2vw 2vw;
+  border-bottom: solid 1px black;
+
+  /* backdrop-filter: blur(6px);
+  border-radius: 2px;
+  box-shadow: 0px 4px 44px rgba(0, 0, 0, 0.8);
+  background-color: rgba(255, 255, 255, 0.75); */
+}
+
+.previewImg {
+  margin: 10px;
+  height: 120px;
+  width: 120px;
+  object-fit: cover;
+}
+
+.title {
+  font-size: 1.5em;
+}

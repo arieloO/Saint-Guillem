@@ -1,14 +1,11 @@
 ---
 title: "bulletin d'information n°2"
 date: "2013-02-04"
+image: null
 tags: ["info"]
 ---
 
-# Bulletin d'information n° 2
-
-Salvaguarda Sant Guillem de Combret
-
-Bulletin n°2
+<!-- # Bulletin d'information n° 2 -->
 
 Chers parents , chers amis
 

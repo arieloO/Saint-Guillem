@@ -1,21 +1,59 @@
-import Head from "next/head";
-import styles from "./navBar.module.css";
-import utilStyles from "../styles/utils.module.css";
-import Link from "next/link";
+import Head from 'next/head';
+import Link from 'next/link';
+import styles from './navBar.module.css';
+import utilStyles from '../styles/utils.module.css';
 
-export const siteTitle = "Chapelle de Saint-Guillem, association de sauvegarde";
+export const siteTitle = 'Chapelle de Saint-Guillem, association de sauvegarde';
 
 export default function NavBar() {
   return (
     <ul className={styles.navBar}>
-            <li className={styles.homeLogo}><img src="/images/logo-nobackground.png" /></li>
-            <li className={styles.homeLink}>Association Salvaguarda<br/>Sant-Guillem de Combret</li>
-            <li className={styles.navLink}><div>Histoire</div></li>
-            <li className={styles.navLink}><div>Restaurations</div></li>
-            <li className={styles.navLink}><div>Traditions</div></li>
-            <li className={styles.navLink}><div>Qui sommes nous ?</div></li>
-            <li className={styles.navLink}><div>En savoir plus</div></li>
-            <li className={styles.navLink}><div>Actualité</div></li>
+      <li className={styles.homeLogo}>
+        <Link href="/">
+          <a>
+            <img src="/images/logo-nobackground.png" />
+          </a>
+        </Link>
+      </li>
+      <li className={styles.homeLink}>
+        <Link href="/">
+          <a>
+            Association Salvaguarda
+            <br />
+            Sant-Guillem de Combret
+          </a>
+        </Link>
+      </li>
+      <li className={styles.navLink}>
+        <Link href="/histoire">
+          <div>Histoire</div>
+        </Link>
+      </li>
+      <li className={styles.navLink}>
+        <Link href="/restaurations">
+          <div>Restaurations</div>
+        </Link>
+      </li>
+      <li className={styles.navLink}>
+        <Link href="/traditions">
+          <div>Traditions</div>
+        </Link>
+      </li>
+      <li className={styles.navLink}>
+        <Link href="/qui-sommes-nous">
+          <div>Qui sommes-nous ?</div>
+        </Link>
+      </li>
+      <li className={styles.navLink}>
+        <Link href="/en-savoir-plus">
+          <div>En savoir plus </div>
+        </Link>
+      </li>
+      <li className={styles.navLink}>
+        <Link href="/actualites">
+          <div>Actualités</div>
+        </Link>
+      </li>
     </ul>
   );
 }

@@ -1,6 +1,7 @@
 ---
 title: "Bulletin d'information n°7"
 date: "2016-01-11"
+image: null
 tags: ["info"]
 ---
 
@@ -19,7 +20,9 @@ Gardons notre confiance pour que 2016 voit l’aboutissement de notre projet et 
 Tout cela grâce à vous tous, adhérents, donateurs, artisans, nous ne pourrons jamais vous remercier assez pour votre fidélité et générosité!
 
 Laurence Loreto, présidente, et le Conseil d’Administration
-
+"
+image: null
+tags: ["
 <img
       alt
       height="442"

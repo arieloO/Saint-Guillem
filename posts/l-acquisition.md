@@ -1,10 +1,9 @@
 ---
 title: "l'acquisition"
 date: "2013-04-16"
+image: null
 tags: ["histoire"]
 ---
-
-# ACQUISITION DE LA CHAPELLE
 
 #### Pages d'histoire n°3
 

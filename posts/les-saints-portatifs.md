@@ -1,6 +1,7 @@
 ---
 title: "les Saints portatifs"
 date: "2014-05-06"
+image: "/images/p4140881-jpg.jpg"
 tags: ["mobilier"]
 ---
 

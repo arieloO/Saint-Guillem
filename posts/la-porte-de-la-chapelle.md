@@ -1,6 +1,7 @@
 ---
-title: "Porte Chapelle"
+title: "La porte de la chapelle"
 date: "2016-06-24"
+image: "/images/porte-chapelle-jpg.jpg"
 tags: ["restaurations"]
 ---
 

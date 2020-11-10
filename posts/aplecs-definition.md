@@ -1,6 +1,7 @@
 ---
 title: "Aplec - Definition"
 date: "2014-05-01"
+image: null
 tags: ["traditions", "histoire", "aplec"]
 ---
 

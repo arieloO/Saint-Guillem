@@ -1,10 +1,9 @@
 ---
 title: "Jacint Verdaguer à Saint-Guillem"
 date: "2014-11-25"
+image: null
 tags: ["histoire"]
 ---
-
-# JACINT VERDAGUER à SANT GUILLEM
 
 #### Pages d'histoire n°5
 
@@ -25,23 +24,25 @@ Suit alors l’épisode de Guillem pétrissant la fonte à même la fournaise. N
 
 A l’adresse du Saint, voici en écho la strophe des goigs relative à la cloche (goigs: joies à l’adresse d’un saint).
 
-Fereu ab las propries mans,
-Mentre bullia lo ferro,
-La campana, que es testerro,
-De neula, pedra i llamps,
-Vergonya dels artesans,
-I gloria d’eix lloc sagrat.
-Siau nostre llum i guia,
-Sant Guillem nostre advocat.
+<p style="font-family: cursive">
+Fereu ab las propries mans,</br>
+Mentre bullia lo ferro,</br>
+La campana, que es testerro,</br>
+De neula, pedra i llamps,</br>
+Vergonya dels artesans,</br>
+I gloria d’eix lloc sagrat.</br>
+Siau nostre llum i guia,</br>
+Sant Guillem nostre advocat.</br>
+</p>
 
-Vous avez fait de vos propres mains,
-Alors que bouillait le fer,
-La cloche qui bannit,
-La brume, la grêle et les éclairs,
-Honte des artisans,
-Et gloire de ce lieu sacré.
-Soyez notre lumière et notre guide,
-Saint Guillem notre avocat.
+Vous avez fait de vos propres mains,</br>
+Alors que bouillait le fer,</br>
+La cloche qui bannit,</br>
+La brume, la grêle et les éclairs,</br>
+Honte des artisans,</br>
+Et gloire de ce lieu sacré.</br>
+Soyez notre lumière et notre guide,</br>
+Saint Guillem notre avocat.</br>
 
 Henri Loreto
 Cinquième page d'histoire

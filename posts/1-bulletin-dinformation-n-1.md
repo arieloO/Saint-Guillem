@@ -1,14 +1,11 @@
 ---
 title: "bulletin d'information n°1"
 date: "2012-12-20"
+image: null
 tags: ["info"]
 ---
 
-# 1-Bulletin d'information n° 1
-
-Salvaguarda Sant Guillem de Combret
-
-Bulletin n°1
+<!-- # 1-Bulletin d'information n° 1 -->
 
 Ainsi donc, chers parents et amis, notre association est une réalité bien vivante, forte pour l’heure de ses 58 adhérents.
 

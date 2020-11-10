@@ -1,25 +1,11 @@
 ---
 title: "Bulletin d'information n°3"
 date: "2013-12-03"
+image: null
 tags: ["info"]
 ---
 
-<img
-      src="/images/banniere-sanguillemdecombret-239.png"
-      alt="Salvaguarda Sant Guillem de Combret"
-/>
-
-Salvaguarda Sant Guillem de Combret
-
-Sauvegardons et entretenons la chapelle et son conjurador
-
-3-Bulletin d'information n° 3
-
-SALVAGUARDA SANT GUILLEM DE COMBRET
-
-# BULLETIN N°
-
-3 décembre 2013
+<!-- # Bulletin d'information n° 3 -->
 
 Chers amis adhérents
 
@@ -29,9 +15,9 @@ Voici ensuite le point des démarches réalisées jusqu’à ce jour:
 
 La chapelle étant «inscrite à l’Inventaire supplémentaire», nous avons eu l’obligation de prendre une entreprise et un architecte agréés par la DRAC (Direction Régionale des Affaires Culturelles) de Montpellier.
 
-Le choix s’est porté sur l’Entreprise ARC ATURA (devis: 67 838,32€) et sur l’architecte Bruno Morin (devis7 123,01€).
+Le choix s’est porté sur l’Entreprise ARC ATURA (devis: 67 838,32€) et sur l’architecte Bruno Morin (devis 7 123,01€).
 
-Nous devons donc recueillir une somme totale de:75 212€ TTC
+Nous devons donc recueillir une somme totale de: 75 212€ TTC
 
 Nous avons monté plusieurs dossiers complets que nous avons adressés aux différentes instances susceptibles de nous aider: la DRAC , le Conseil Régional, les Réserves Parlementaires de tous nos élus … La Fondation du Patrimoine nous assure, sous peu, un label ouvrant droit à une souscription auprès de mécènes , sponsors , avec une défiscalisation très attrayante… des amis se proposent de faire des manifestations culturelles au bénéfice de la chapelle (entre-autre le grand violoncelliste local Daniel Brun ). Appel a été fait aussi auprès du Crédit Agricole, Axa etc … Toutes suggestions à propos de demandes d’aides seront les bienvenues.
 
@@ -44,8 +30,3 @@ Aux amis qui montent à Sant Guillem, nous demandons de signaler toute anomalie 
 BON NADAL 2013 i FELIC ANY NOU 2014
 
 Pour vous tous et vos familles
-
-<a href="http://www.salvaguardasantguillemdecombret.fr"
-title="http://www.salvaguardasantguillemdecombret.fr/"
-
-> www.salvaguardasantguillemdecombret.fr</a>

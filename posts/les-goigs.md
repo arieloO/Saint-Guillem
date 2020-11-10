@@ -1,17 +1,22 @@
 ---
-title: "les Goigs"
+title: "Les Goigs"
 date: "2014-02-18"
+image: "/images/Goig_de_Sant_Guillem_de_Combret.jpg"
 tags: ["traditions"]
 ---
 
 # LES GOIGS
 
-Goig est un mot catalan qui signifie joie; chanter les goigs, c’est chanter les joies d’un saint, ils racontent sa vie, ses bienfaits, ses miracles …
+Goig est un mot catalan qui signifie joie; chanter les goigs, c’est chanter les joies d’un saint, ils racontent sa vie, ses bienfaits, ses miracles…
 
 Certains sont très anciens et remontent au Moyen-Age.
 
 Voici ceux qui se chantent chaque année dans la chapelle, après la messe:
-
+<img
+    alt="Goigs de Sant Guillem"
+    src="/images/Goig_de_Sant_Guillem_de_Combret.jpg"
+    class="article-img-cover"
+/>
 <img
     alt
     src="/images/goigs-de-sant-guillem-de-combret-jpg.jpg"

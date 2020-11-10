@@ -1,6 +1,7 @@
 ---
 title: "les ermites"
 date: "2016-01-18"
+image: null
 tags: ["histoire"]
 ---
 

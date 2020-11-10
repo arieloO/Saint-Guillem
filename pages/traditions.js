@@ -9,12 +9,12 @@ export default function FilteredPosts({ allPostsData }) {
   return (
     <Layout section>
       <Head>
-        <title>Histoire</title>
+        <title>Traditions</title>
       </Head>
 
       <section className={`${utilStyles.header} ${utilStyles.padding1px}`}>
         <div className>
-          <h2 className={`${utilStyles.headingLg} ${utilStyles.previewHeading}`}>Pages d'Histoire</h2>
+          <h2 className={`${utilStyles.headingLg} ${utilStyles.previewHeading}`}>Traditions</h2>
           <p>
             Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et
             dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex
@@ -25,7 +25,7 @@ export default function FilteredPosts({ allPostsData }) {
         </div>
         <ul className={utilStyles.list}>
           {allPostsData.map(({ id, date, title, image, tags }) =>
-            tags[0] === 'histoire' ? (
+            tags[0] === 'traditions' ? (
               <PostPreview id={id} date={date} title={title} image={image} tags={tags} />
             ) : (
               undefined
