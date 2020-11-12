@@ -14,20 +14,17 @@
   height: 8rem;
 }
 
-.backToHome {
-  margin: 3rem 0 0;
-}
-
 .mainWrapper {
   display: flex;
   flex-direction: column;
   align-content: center;
   align-items: center;
-  text-align: justify;
-  word-break: normal;
+  text-align: start;
+  word-break: inherit;
   -webkit-hyphens: manual;
   -moz-hyphens: manual;
   hyphens: manual;
+  font-size: 1.1rem;
   min-width: 320px;
   width: 50vw;
   max-width: 960px;

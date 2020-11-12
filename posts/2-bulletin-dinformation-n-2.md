@@ -2,6 +2,7 @@
 title: "bulletin d'information n°2"
 date: "2013-02-04"
 image: null
+section: null
 tags: ["info"]
 ---
 

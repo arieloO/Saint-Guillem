@@ -1,7 +1,8 @@
 ---
-title: "les cloches"
+title: "Les cloches"
 date: "2014-05-13"
 image: "/images/la-cloche-en-fer-forga-x-xia-s.jpg"
+section: "histoire"
 tags: ["histoire"]
 ---
 

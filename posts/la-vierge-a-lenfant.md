@@ -1,7 +1,8 @@
 ---
-title: "vierge à l'enfant"
+title: "Vierge à l'enfant"
 date: "2020-05-11"
 image: "/images/vierge-xiva-s-in-situ.jpg"
+section: "histoire"
 tags: ["histoire", "mobilier"]
 ---
 

@@ -7,7 +7,7 @@ import PostPreview from '../components/postPreview';
 
 export default function FilteredPosts({ allPostsData }) {
   return (
-    <Layout section>
+    <Layout section="Histoire">
       <Head>
         <title>Histoire</title>
       </Head>
@@ -24,14 +24,18 @@ export default function FilteredPosts({ allPostsData }) {
           </p>
         </div>
         <ul className={utilStyles.list}>
-          {allPostsData.map(({ id, date, title, image, tags }) =>
-            tags[0] === 'histoire' ? (
+          {allPostsData.map(({ id, date, title, image, section, tags }) =>
+            section === 'histoire' ? (
               <PostPreview id={id} date={date} title={title} image={image} tags={tags} />
             ) : (
               undefined
             )
           )}
         </ul>
+
+        <Link href="/">
+          <a>← Retour à l'accueil</a>
+        </Link>
         <div style={{ height: '600px' }} />
       </section>
     </Layout>

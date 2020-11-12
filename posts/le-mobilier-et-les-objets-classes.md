@@ -2,6 +2,7 @@
 title: "mobilier et objets classés"
 date: "2014-01-01"
 image: null
+section: "histoire"
 tags: ["histoire"]
 ---
 

@@ -16,10 +16,14 @@ export default function Home({ allPostsData }) {
       <section className={`${utilStyles.header} ${utilStyles.padding1px}`}>
         <h2 className={utilStyles.headingLg}>Blog</h2>
         <ul className={utilStyles.list}>
-          {allPostsData.map(({ id, date, title, image, tags }) => (
+          {allPostsData.map(({ id, date, title, image, section, tags }) => (
             <PostPreview id={id} date={date} title={title} image={image} tags={tags} />
           ))}
         </ul>
+
+        <Link href="/">
+          <a>← Retour à l'accueil</a>
+        </Link>
         <div style={{ height: '600px' }} />
       </section>
       <a href="http://www.salvaguardasantguillemdecombret.fr" title="http://www.salvaguardasantguillemdecombret.fr/">

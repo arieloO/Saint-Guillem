@@ -2,6 +2,7 @@
 title: "Petite histoire des Goigs"
 date: "2015-05-22"
 image: null
+section: "histoire"
 tags: ["histoire"]
 ---
 

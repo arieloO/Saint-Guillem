@@ -2,6 +2,7 @@
 title: "La Chapelle"
 date: "2014-02-11"
 image: null
+section: "histoire"
 tags: ["histoire"]
 ---
 

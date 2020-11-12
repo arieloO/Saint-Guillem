@@ -2,6 +2,7 @@
 title: "les ermites"
 date: "2016-01-18"
 image: null
+section: "histoire"
 tags: ["histoire"]
 ---
 
@@ -46,6 +47,10 @@ Sans commentaires!
 
 Reste à élucider qui fut le véritable ermite Guillem dont la vox populi en fit un saint et qui laissa son nom à l’ermitage: plusieurs versions s’affrontent et des recherches plus approfondies seraient nécessaires… avis aux historiens…
 
+Voir aussi l'appendice à la <a class="inline-a" href="https://mediatheque-patrimoine.perpignan.fr/view.php?titn=0377684&men=3&lg=FR"> Notice Historique sur la Chapelle</a> de L'Abbé Joseph Gibrat en 1899, p.37, à propos de l'ermite Climent, qui compile les récit des habitants de la vallée.
+
 Henri LORETO
+
 7ème page d'histoire
+
 Janvier 2016

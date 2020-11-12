@@ -2,6 +2,7 @@
 title: "Petite histoire de la chapelle"
 date: "2012-07-14"
 image: "/images/plan-chapelle.jpg"
+section: null
 tags: ["autre", "histoire"]
 ---
 

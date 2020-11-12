@@ -2,6 +2,7 @@
 title: "bulletin d'information n°1"
 date: "2012-12-20"
 image: null
+section: null
 tags: ["info"]
 ---
 

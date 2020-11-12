@@ -24,7 +24,7 @@ export default function FilteredPosts({ allPostsData }) {
           </p>
         </div>
         <ul className={utilStyles.list}>
-          {allPostsData.map(({ id, date, title, image, tags }) =>
+          {allPostsData.map(({ id, date, title, image, section, tags }) =>
             tags[0] === 'traditions' ? (
               <PostPreview id={id} date={date} title={title} image={image} tags={tags} />
             ) : (
@@ -32,6 +32,10 @@ export default function FilteredPosts({ allPostsData }) {
             )
           )}
         </ul>
+
+        <Link href="/">
+          <a>← Retour à l'accueil</a>
+        </Link>
         <div style={{ height: '600px' }} />
       </section>
     </Layout>

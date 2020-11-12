@@ -2,6 +2,7 @@
 title: "règlement intérieur"
 date: "2012-07-14"
 image: null
+section: null
 tags: ["Qui sommes-nous"]
 ---
 

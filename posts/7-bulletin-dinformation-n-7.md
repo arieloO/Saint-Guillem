@@ -2,6 +2,7 @@
 title: "Bulletin d'information n°7"
 date: "2016-01-11"
 image: null
+section: null
 tags: ["info"]
 ---
 
@@ -22,6 +23,7 @@ Tout cela grâce à vous tous, adhérents, donateurs, artisans, nous ne pourrons
 Laurence Loreto, présidente, et le Conseil d’Administration
 "
 image: null
+section: null
 tags: ["
 <img
       alt

@@ -2,6 +2,7 @@
 title: "Les expropriations"
 date: "2016-05-09"
 image: "/images/Lermita_de_Sant_Guillem_de_Combret_1900-1914.jpg"
+section: "histoire"
 tags: ["histoire"]
 ---
 

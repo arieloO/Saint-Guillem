@@ -1,6 +1,6 @@
 import Head from 'next/head';
-import Link from 'next/link';
 import { FullscreenExit } from '@material-ui/icons';
+import Link from 'next/link';
 import styles from './layout.module.css';
 import utilStyles from '../styles/utils.module.css';
 import Header from './header';
@@ -20,7 +20,7 @@ export default function Layout({ children, home, section }) {
           content="sauvegarde, entretien, traditions, pèlerinages, culturelles, culture, écologique, écologie,  spirituelles, spiritualité, organisation, conjurator, pages, saint, guillem, Vallespir, Le Tech, Arles-Sur-Tech, Pratz-de-Mollo, messe, sainte madeleine, saint-guillem, goigs"
         />
       </Head>
-      <NavBar />
+      <NavBar section={section} />
       <Header />
 
       <main>
@@ -30,7 +30,7 @@ export default function Layout({ children, home, section }) {
           ) : (
             <div className={styles.mainWrapper}>
               {children}
-              <div className={styles.backToHome}>
+              <div className={utilStyles.backToHome}>
                 <Link href="/">
                   <a>← Retour à l'accueil</a>
                 </Link>
