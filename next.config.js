@@ -1,3 +1,4 @@
 module.exports = {
-  basePath: ''
+  basePath: '/Saint-Guillem',
+  assetPrefix: '/Saint-Guillem'
 };
