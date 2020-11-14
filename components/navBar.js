@@ -51,7 +51,7 @@ export default function NavBar() {
         </NavLink>
       </li>
       <li>
-        <NavLink href="/actualites">
+        <NavLink href="/actualite">
           <div className="navLink">Actualités</div>
         </NavLink>
       </li>

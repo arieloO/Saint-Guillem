@@ -24,7 +24,7 @@ export default function Home({ allPostsData }) {
         <Link href="/">
           <a>← Retour à l'accueil</a>
         </Link>
-        <div style={{ height: '600px' }} />
+        <div style={{ height: '100px' }} />
       </section>
       <a href="http://www.salvaguardasantguillemdecombret.fr" title="http://www.salvaguardasantguillemdecombret.fr/">
         www.salvaguardasantguillemdecombret.fr

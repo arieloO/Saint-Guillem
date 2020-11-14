@@ -2,8 +2,8 @@
 title: "Bonne Conduite"
 date: "2012-07-14"
 image: null
-section: null
-tags: ["Qui sommes-nous"]
+section: "qui-sommes-nous"
+tags: ["Qui sommes-nous ?"]
 ---
 
 Nous voulons insuffler un vent de responsabilité afin que ce lieu patrimonial soit utilisé par les randonneurs ou visiteurs d’une manière harmonieuse et respectueuse

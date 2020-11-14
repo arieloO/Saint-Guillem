@@ -9,7 +9,7 @@ export default function FilteredPosts({ allPostsData }) {
   return (
     <Layout section>
       <Head>
-        <title>En savoir plus</title>
+        <title>En savoir plus - {siteTitle}</title>
       </Head>
 
       <section className={`${utilStyles.header} ${utilStyles.padding1px}`}>
@@ -25,7 +25,7 @@ export default function FilteredPosts({ allPostsData }) {
         </div>
         <ul className={utilStyles.list}>
           {allPostsData.map(({ id, date, title, image, section, tags }) =>
-            tags.includes('autre') ? (
+            section === 'autre' ? (
               <PostPreview id={id} date={date} title={title} image={image} tags={tags} />
             ) : (
               undefined

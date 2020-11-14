@@ -3,7 +3,7 @@ title: "Les Goigs"
 date: "2014-02-18"
 image: "/images/Goig_de_Sant_Guillem_de_Combret.jpg"
 section: "traditions"
-tags: ["traditions"]
+tags: ["traditions", "histoire"]
 ---
 
 # LES GOIGS

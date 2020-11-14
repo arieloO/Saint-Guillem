@@ -12,11 +12,14 @@ export default function Post({ postData }) {
       <Head>
         <title>{postData.title}</title>
       </Head>
-      <div style={{ backgroundImage: `url(${postData.cover_image})` }} className="article-image-cover" />
+      <div
+        // style={{ backgroundImage: `url(${postData.cover_image})` }}
+        className="article-image-cover"
+      />
       <article>
         <h1 className={utilStyles.headingXl}>{postData.title}</h1>
         <div className={utilStyles.lightText}>
-          <h4>{postData.sub_title}</h4>
+          {/* <h4>{postData.sub_title}</h4> */}
           <Date dateString={postData.date} />
         </div>
         <div dangerouslySetInnerHTML={{ __html: postData.contentHtml }} />
@@ -24,7 +27,7 @@ export default function Post({ postData }) {
       <div className={utilStyles.backToHome}>
         <Link href={tagToPath(postData.tags[0])}>
           <a>
-            ← Retour à <i>{`${postData.tags[0]}`}</i>
+            ← Retour à <i>{`${postData.section}`}</i>
           </a>
         </Link>
       </div>

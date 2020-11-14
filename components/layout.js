@@ -1,15 +1,15 @@
 import Head from 'next/head';
-import { FullscreenExit } from '@material-ui/icons';
+// import { FullscreenExit } from '@material-ui/icons';
 import Link from 'next/link';
 import styles from './layout.module.css';
 import utilStyles from '../styles/utils.module.css';
 import Header from './header';
 import NavBar from './navBar';
-import SideBar from './sideBar';
+// import SideBar from './sideBar';
 
-export const siteTitle = 'Chapelle de Saint-Guillem, association de sauvegarde';
+export const siteTitle = 'Saint-Guillem, association de sauvegarde de la chapelle';
 
-export default function Layout({ children, home, section }) {
+export default function Layout({ children, section }) {
   return (
     <div className={styles.container}>
       <Head>

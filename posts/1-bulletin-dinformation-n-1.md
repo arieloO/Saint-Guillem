@@ -1,9 +1,9 @@
 ---
-title: "bulletin d'information n°1"
+title: "bulletin d'information n1"
 date: "2012-12-20"
 image: null
-section: null
-tags: ["info"]
+section: "actualite"
+tags: ["actualite"]
 ---
 
 <!-- # 1-Bulletin d'information n° 1 -->
@@ -49,4 +49,4 @@ BON NADAL 2012 BON ANY 2013
 AMICS, PER MOLTS ANYS
 l’équipe du bureau de l’association
 
-<a href="croquis%20de%20Joseph%20Ribas"> Croquis de Joseph Ribas </a>
+<!-- <a href="croquis%20de%20Joseph%20Ribas"> Croquis de Joseph Ribas </a> -->

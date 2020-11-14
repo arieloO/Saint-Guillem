@@ -1,9 +1,9 @@
 ---
-title: "bulletin d'information n°2"
+title: "bulletin d'information n2"
 date: "2013-02-04"
 image: null
-section: null
-tags: ["info"]
+section: "actualite"
+tags: ["actualite"]
 ---
 
 <!-- # Bulletin d'information n° 2 -->

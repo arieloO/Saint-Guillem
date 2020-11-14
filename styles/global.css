@@ -39,6 +39,20 @@ a {
   color: tomato;
 }
 
+.tags-label-container {
+  display: flex;
+  flex-direction: row;
+}
+
+.tag-label {
+  background-color: rgba(0, 0, 0, 0.205);
+  border-radius: 3px;
+  font-size: 0.8rem;
+  line-height: 0;
+  padding: 8px;
+  margin: 4px;
+}
+
 /* ---- Nav Bar Styles ---- */
 
 .navBar {

@@ -2,7 +2,7 @@
 title: "Le retable"
 date: "2019-07-01"
 image: null
-section: null
+section: "restaurations"
 tags: ["restaurations"]
 ---
 

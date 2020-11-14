@@ -9,7 +9,7 @@ export default function FilteredPosts({ allPostsData }) {
   return (
     <Layout section>
       <Head>
-        <title>Traditions</title>
+        <title>Traditions - {siteTitle}</title>
       </Head>
 
       <section className={`${utilStyles.header} ${utilStyles.padding1px}`}>

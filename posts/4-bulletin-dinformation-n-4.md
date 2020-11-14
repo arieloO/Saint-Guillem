@@ -2,11 +2,9 @@
 title: "bulletin d'information n°4"
 date: "2014-05-01"
 image: null
-section: null
-tags: ["info"]
+section: "actualite"
+tags: ["actualite"]
 ---
-
-<!-- # 4-Bulletin d'information n° 4 -->
 
 Très chers Adhérents,
 

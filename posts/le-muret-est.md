@@ -2,7 +2,7 @@
 title: "Muret Est"
 date: "2018-07-24"
 image: null
-section: null
+section: "restaurations"
 tags: ["restaurations"]
 ---
 

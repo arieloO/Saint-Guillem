@@ -2,8 +2,8 @@
 title: "Bulletin d'information n°3"
 date: "2013-12-03"
 image: null
-section: null
-tags: ["info"]
+section: "actualite"
+tags: ["actualite"]
 ---
 
 <!-- # Bulletin d'information n° 3 -->

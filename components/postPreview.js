@@ -2,6 +2,7 @@ import Link from 'next/link';
 import styles from './postPreview.module.css';
 import utilStyles from '../styles/utils.module.css';
 import Date from './date';
+import TagLabel from './tagLabel';
 // import { getSortedPostsData } from '../lib/posts';
 
 export default function PostPreview({ id, date, title, image, tags }) {
@@ -19,13 +20,11 @@ export default function PostPreview({ id, date, title, image, tags }) {
               <Date dateString={date} />
               <br />
             </small>
-            <small>
-              <p>
-                {tags.map((category, index, array) => {
-                  return index + 1 < array.length ? `${category}, ` : `${category} `;
-                })}
-              </p>
-            </small>
+            <div className="tags-label-container">
+              {tags.map((tag, index) => (
+                <TagLabel key={tag} tag={tag} />
+              ))}
+            </div>
           </div>
         </div>
       </Link>

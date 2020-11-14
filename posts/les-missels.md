@@ -1,9 +1,9 @@
 ---
 title: "Les missels"
-sub_title: "pages d'histoire n°3"
+# sub_title: "pages d'histoire n°3"
 date: "2013-12-16"
 image: "/images/Missel_Illustration_Crucifixion_crop.jpg"
-cover_image: "/images/Missel_Illustration_Crucifixion_crop.jpg"
+# cover_image: "/images/Missel_Illustration_Crucifixion_crop.jpg"
 section: "histoire"
 tags: ["histoire", "mobilier"]
 ---

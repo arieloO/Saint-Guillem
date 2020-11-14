@@ -2,7 +2,7 @@
 title: "les artisans"
 date: "2016-07-22"
 image: null
-section: null
+section: "restaurations"
 tags: ["restaurations"]
 ---
 

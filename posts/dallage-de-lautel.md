@@ -2,7 +2,7 @@
 title: "Dallage de l'autel"
 date: "2017-07-30"
 image: null
-section: null
+section: "restaurations"
 tags: ["restaurations"]
 ---
 
