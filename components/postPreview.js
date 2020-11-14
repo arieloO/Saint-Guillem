@@ -15,7 +15,7 @@ export default function PostPreview({ id, date, title, image, tags }) {
       <Link href={`/posts/${id}`}>
         <div className={styles.previewDiv}>
           <img
-            src={prefix + image || `${prefix}/images/logo-nobackground.png`}
+            src={image ? prefix + image : `${prefix}/images/logo-nobackground.png`}
             alt={image ? id : null}
             className={styles.previewImg}
           />
