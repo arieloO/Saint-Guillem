@@ -13,7 +13,7 @@ Arc Atura
 <img
   alt
   src="/images/clocheton-03.jpg"
-  class="article-img-cover"
+  class="article-img-center"
 />
 
 Sous sa couche de vieux mortier et ses vieilles pierres, il paraissait encore pouvoir tenir le poids des ans.
@@ -37,5 +37,5 @@ La surface externe a ensuite été reprise
 <img
     alt
     src="/images/clocheton-12bis-jpg.jpg"
-    class="article-img-cover"
+    class="article-img-center"
   />

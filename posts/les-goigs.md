@@ -17,13 +17,13 @@ Voici ceux qui se chantent chaque année dans la chapelle, après la messe:
 <img
     alt
     src="/images/goigs-de-sant-guillem-de-combret-jpg.jpg"
-    class="article-img-cover"
+    class="article-img-center"
 />
 
 <img
     alt
     src="/images/goigs-de-santa-magdalena-jpg.jpg"
-    class="article-img-cover"
+    class="article-img-center"
 />
 
 TEXTE lu dans une exposition sur les goigs catalans à Arles-sur-Tech (2012)
@@ -33,5 +33,5 @@ Lors des funérailles de Monsieur Justin Pépraxt, Mossen Cinto Verdaguer décla
 <img
     alt="Goigs de Sant Guillem"
     src="/images/Goig_de_Sant_Guillem_de_Combret.jpg"
-    class="article-img-cover"
+    class="article-img-center"
 />

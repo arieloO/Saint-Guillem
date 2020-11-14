@@ -13,7 +13,7 @@ A l’initiative de Bruno Morin, notre ami architecte, une équipe de scouts de 
 <img
   alt="muret Est"
   src="/images/muret-20180719.jpg"
-  class="article-img-cover"
+  class="article-img-center"
 />
 
 Ce n’était pas une mince affaire pour des apprentis novices, mais leur motivation, leur persévérance, leur sérieux, nous ont valu une murette restaurée tout à fait satisfaisante.
@@ -31,7 +31,7 @@ Leur campement sur le Pla, leur jeunesse, leur bonne humeur, l’accueil que la 
 <img
   alt
   src="/images/muret-20180725-0.jpg"
-  class="article-img-cover"
+  class="article-img-center"
 />
 
 De même pour ceux qui les ont côtoyés et appréciés…l’émotion était là au moment de la séparation. Tous nos remerciements vont à ce groupe de jeunes compagnons.

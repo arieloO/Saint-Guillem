@@ -30,7 +30,7 @@ En ce qui concerne l’ermitage de St Guillem, l’Inspecteur des Eaux et Forêt
 
 Archives Départementales série1301/w/5-36-38-136.
 
-<img title="Sant Guillem 1900 et 1914" src="/images/Lermita_de_Sant_Guillem_de_Combret_1900-1914.jpg" title="Aperçu de la chapelle au début du siècle dernier, entre 1900 et 1914" class="article-img-cover"></img>
+<img title="Sant Guillem 1900 et 1914" src="/images/Lermita_de_Sant_Guillem_de_Combret_1900-1914.jpg" title="Aperçu de la chapelle au début du siècle dernier, entre 1900 et 1914" class="article-img-center"></img>
 
 Henri Loreto
 

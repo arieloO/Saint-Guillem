@@ -9,7 +9,7 @@ tags: ["restaurations"]
 <img
   alt="Retable avant restaurations"
   src="/images/00104-dscf5649-jpg.jpg"
-  class="article-img-cover"
+  class="article-img-center"
 />
 
 Caterina AGUER SUBIRÓS, restauratrice d’œuvres d’art de Gérone, est chargée de la restauration du retable.
@@ -49,7 +49,7 @@ Cathy Aguer (à droite) a dû prendre l’avis des spécialistes en la matière 
 <img
   alt="visite à l'atelier de restauration de Cabanes, février 2019"
   src="/images/retable-20190330-006-jpg.jpg"
-  class="article-img-cover"
+  class="article-img-center"
 />
 
 La repose du retable est envisagée pour l’été 2019.

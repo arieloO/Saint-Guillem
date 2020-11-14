@@ -13,7 +13,7 @@ tags: ["histoire", "mobilier"]
 <div
       alt
       style="background-image: url('/images/Missel_Illustration_Crucifixion_crop.jpg')"
-      class="article-img-cover" ></div>
+      class="article-img-center" ></div>
 
 Nos pages d’histoire seront parfois consacrées au mobilier de la chapelle… et peut-être pourrions-nous débuter maintenant par le sort advenu à deux manuscrits prestigieux, aujourd’hui absents dans la chapelle, mais fort bien connus depuis peu, conservés et sécurisés tant à Paris qu’à Perpignan.
 
