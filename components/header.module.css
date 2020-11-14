@@ -12,13 +12,13 @@
   background-image: url("/images/chapelle.jpg");
   background-size: cover;
   background-position: center; */
-  height: 60vh;
+  max-height: 10vh;
   width: 100%;
   display: flex;
 }
 
 .bannerTitle {
-  font-size: 3.5em;
+  font-size: 3.5rem;
   color: aliceblue;
   margin: 0 auto;
 }
