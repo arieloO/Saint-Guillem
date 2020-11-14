@@ -5,7 +5,7 @@ import Date from './date';
 import TagLabel from './tagLabel';
 // import { getSortedPostsData } from '../lib/posts';
 
-const prefix = '/Saint-Guillem';
+// const prefix = '/Saint-Guillem';
 
 export default function PostPreview({ id, date, title, image, tags }) {
   return (
@@ -15,7 +15,8 @@ export default function PostPreview({ id, date, title, image, tags }) {
       <Link href={`/posts/${id}`}>
         <div className={styles.previewDiv}>
           <img
-            src={image ? prefix + image : `${prefix}/images/logo-nobackground.png`}
+            // src={image ? prefix + image : `${prefix}/images/logo-nobackground.png`}
+            src={image || `/images/logo-nobackground.png`}
             alt={image ? id : null}
             className={styles.previewImg}
           />
