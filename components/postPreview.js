@@ -5,7 +5,7 @@ import Date from './date';
 import TagLabel from './tagLabel';
 // import { getSortedPostsData } from '../lib/posts';
 
-const prefix = '/Sant-Guillem';
+const prefix = '/Saint-Guillem';
 
 export default function PostPreview({ id, date, title, image, tags }) {
   return (
