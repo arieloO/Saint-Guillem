@@ -14,7 +14,7 @@ export default function Home({ allPostsData }) {
       </Head>
 
       <section className={`${utilStyles.header} ${utilStyles.padding1px}`}>
-        <h2 className={utilStyles.headingLg}>Blog</h2>
+        <h2 className={utilStyles.headingLg}>Bienvenu</h2>
         <ul className={utilStyles.list}>
           {allPostsData.map(({ id, date, title, image, section, tags }) => (
             <PostPreview id={id} date={date} title={title} image={image} tags={tags} />
