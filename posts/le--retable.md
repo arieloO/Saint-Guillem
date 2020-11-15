@@ -1,7 +1,7 @@
 ---
 title: "Le retable"
 date: "2019-07-01"
-image: null
+image: "/images/retable-20190730-003-png.png"
 section: "restaurations"
 tags: ["restaurations"]
 ---
@@ -19,6 +19,7 @@ le Conseil Régional, le Conseil Départemental, la Commune de Le Tech et l'Asso
 
 La dépose et le transport du retable en atelier ont été réalisés le 9 novembre 2018
 
+<div class="article-img-group">
 <img
   alt="dépose du retable I"
   src="/images/retable-20180910-6-jpg.jpg"
@@ -39,7 +40,7 @@ La dépose et le transport du retable en atelier ont été réalisés le 9 novem
   src="/images/retable-20180910-10-jpg.jpg"
   class="article-img-small"
 />
-
+</div>
 Visite à l’atelier de restauration de Cabanes, février 2019
 
 Décider telle ou telle intervention en privilégiant telle ou telle couche de peinture ancienne, n’est pas une mince affaire !

@@ -21,7 +21,7 @@ export default function Layout({ children, section }) {
         />
       </Head>
       <NavBar section={section} />
-      <Header />
+      <Header section={section} />
 
       <main>
         <div className={styles.wrapper}>

@@ -4,21 +4,24 @@
   width: 100%;
 }
 
+.homeHeaderBanner {
+  display: flex;
+  flex-direction: column;
+  align-content: space-between;
+  min-height: 85vh;
+  width: 100%;
+}
+
 .headerBanner {
   display: flex;
   flex-direction: column;
   align-content: space-between;
-  /* background-attachment: fixed;
-  background-image: url("/images/chapelle.jpg");
-  background-size: cover;
-  background-position: center; */
   max-height: 10vh;
   width: 100%;
-  display: flex;
 }
 
 .bannerTitle {
-  font-size: 3.5rem;
+  font-size: 3rem;
   color: aliceblue;
   margin: 0 auto;
 }

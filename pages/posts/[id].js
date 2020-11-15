@@ -8,7 +8,7 @@ import tagToPath from '../../lib/tagToPath';
 
 export default function Post({ postData }) {
   return (
-    <Layout>
+    <Layout section>
       <Head>
         <title>{postData.title}</title>
       </Head>

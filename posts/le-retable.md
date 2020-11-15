@@ -17,14 +17,7 @@ A l’origine, le rétable était dressé à l’arrière de la Table d’Autel.
 <img
   alt
   src="/images/RETABLE-3.jpg"
-  style="
-    border-width: 1px;
-    border-style: solid;
-    width: 400px;
-    height: 449px;
-    margin-right: 50px;
-    margin-left: 50px;
-  "
+  class="article-img-center"
 />
 
 Les statues (3 niches)

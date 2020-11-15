@@ -5,10 +5,10 @@ import utilStyles from '../styles/utils.module.css';
 
 export const siteTitle = 'Chapelle de Saint-Guillem, association de sauvegarde';
 
-export default function Leader() {
+export default function Header({ section }) {
   return (
-    <div className={styles.headerBanner}>
-      <div className={styles.bannerTitle}>Saint-Guillem de Combret</div>
+    <div className={!section ? styles.homeHeaderBanner : styles.headerBanner}>
+      <div className={styles.bannerTitle}>{section || 'Saint-Guillem de Combret'}</div>
     </div>
   );
 }
