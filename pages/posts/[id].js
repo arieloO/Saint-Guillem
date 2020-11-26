@@ -1,10 +1,11 @@
-import Head from 'next/head';
-import Link from 'next/link';
-import Layout from '../../components/layout';
-import { getAllPostIds, getPostData } from '../../lib/posts';
-import Date from '../../components/date';
-import utilStyles from '../../styles/utils.module.css';
-import tagToPath from '../../lib/tagToPath';
+import Head from "next/head";
+import Link from "next/link";
+import Layout from "../../components/layout";
+import { getAllPostIds, getPostData } from "../../lib/posts";
+import Date from "../../components/date";
+import utilStyles from "../../styles/utils.module.css";
+import tagToPath from "../../lib/tagToPath";
+import Caroussel from "../../components/caroussel";
 
 export default function Post({ postData }) {
   return (
@@ -31,6 +32,7 @@ export default function Post({ postData }) {
           </a>
         </Link>
       </div>
+      {postData.image ? <Caroussel id={postData.id} image={postData.image} /> : null}
     </Layout>
   );
 }
