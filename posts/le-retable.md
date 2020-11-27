@@ -3,6 +3,7 @@ title: "Le retable"
 date: "2017-09-28"
 image: null
 section: "histoire"
+carousel: null
 tags: ["histoire", "mobilier"]
 ---
 

@@ -3,6 +3,7 @@ title: "objets non classés"
 date: "2014-04-04"
 image: null
 section: "autre"
+carousel: null
 tags: ["mobilier", "autre"]
 ---
 

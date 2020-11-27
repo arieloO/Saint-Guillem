@@ -3,6 +3,7 @@ title: "Bulletin d'information n°8"
 date: "2016-05-02"
 image: null
 section: "actualite"
+carousel: null
 tags: ["actualite"]
 ---
 

@@ -5,7 +5,9 @@ const Caroussel = ({ id, image }) => {
   return (
     <div alt={`${id} gallerie photo`} className={styles.caroussel}>
       <img alt={id} src={image} />
+
       {/* {image.map(imgId => (
+          
         <img alt={imgId} src={imgId} />
       ))} */}
     </div>

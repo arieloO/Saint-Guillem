@@ -3,6 +3,7 @@ title: "bulletin d'information n1"
 date: "2012-12-20"
 image: null
 section: "actualite"
+carousel: null
 tags: ["actualite"]
 ---
 

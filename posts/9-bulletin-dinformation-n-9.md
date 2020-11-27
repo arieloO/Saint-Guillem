@@ -3,6 +3,7 @@ title: "9-Bulletin d'information n° 9"
 date: "2016-10-11"
 image: null
 section: "actualite"
+carousel: null
 tags: ["actualite"]
 ---
 

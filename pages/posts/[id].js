@@ -5,7 +5,7 @@ import { getAllPostIds, getPostData } from "../../lib/posts";
 import Date from "../../components/date";
 import utilStyles from "../../styles/utils.module.css";
 import tagToPath from "../../lib/tagToPath";
-import Caroussel from "../../components/caroussel";
+import Carousel from "../../components/carousel";
 
 export default function Post({ postData }) {
   return (
@@ -13,6 +13,7 @@ export default function Post({ postData }) {
       <Head>
         <title>{postData.title}</title>
       </Head>
+
       {/* <div
         // style={{ backgroundImage: `url(${postData.cover_image})` }}
         className="article-image-cover"
@@ -32,7 +33,9 @@ export default function Post({ postData }) {
           </a>
         </Link>
       </div>
-      {postData.image ? <Caroussel id={postData.id} image={postData.image} /> : null}
+      {postData.image ? (
+        <Carousel id={postData.id} image={postData.image} />
+      ) : null}
     </Layout>
   );
 }

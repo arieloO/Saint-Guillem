@@ -3,6 +3,7 @@ title: "La toiture"
 date: "2018-07-25"
 image: "/images/dscn4945.jpg"
 section: "restaurations"
+carousel: null
 tags: ["restaurations"]
 ---
 

@@ -3,6 +3,7 @@ title: "Vierge à l'enfant"
 date: "2020-05-11"
 image: "/images/Vierge à l'Enfant restaurée.jpg"
 section: "histoire"
+carousel: null
 tags: ["histoire", "mobilier"]
 ---
 
@@ -25,7 +26,7 @@ L’art roman rejette le réalisme. Pour lui, on ne peut représenter nos saints
 L’art roman est un art symbolique. Il est le monde des signes, clé du paradis.
 Notre retable est daté 1659 et, bien que la chapelle soit consacrée à Sainte Madeleine, il honore d’abord la Vierge à l’Enfant, placée dans la niche centrale du retable. Il est très probable qu’on ait alors utilisée cette statue existant déjà dans la chapelle (par souci aussi d’économie !) ; Sainte Madeleine et Saint Jean honorant les niches annexes.
 
-C’est à cette époque -1659- que la polychromie et la dorure de la statue de la Vierge ont été reprises.
+C’est à cette époque (1659) que la polychromie et la dorure de la statue de la Vierge ont été reprises.
 
 Henri Loreto
 

@@ -3,6 +3,7 @@ title: "Notre association"
 date: "2012-07-14"
 image: null
 section: "qui-sommes-nous"
+carousel: null
 tags: ["Qui sommes-nous ?"]
 ---
 

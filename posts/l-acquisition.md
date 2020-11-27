@@ -3,6 +3,7 @@ title: "l'acquisition"
 date: "2013-04-16"
 image: null
 section: "histoire"
+carousel: null
 tags: ["histoire"]
 ---
 

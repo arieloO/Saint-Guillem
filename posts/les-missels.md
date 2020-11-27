@@ -5,6 +5,7 @@ date: "2013-12-16"
 image: "/images/Missel_Illustration_Crucifixion_crop.jpg"
 # cover_image: "/images/Missel_Illustration_Crucifixion_crop.jpg"
 section: "histoire"
+carousel: null
 tags: ["histoire", "mobilier"]
 ---
 

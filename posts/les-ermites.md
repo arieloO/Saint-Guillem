@@ -3,6 +3,7 @@ title: "les ermites"
 date: "2016-01-18"
 image: null
 section: "histoire"
+carousel: null
 tags: ["histoire"]
 ---
 

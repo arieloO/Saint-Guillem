@@ -3,6 +3,7 @@ title: "Cadran solaire"
 date: "2016-06-13"
 image: null
 section: "restaurations"
+carousel: null
 tags: ["restaurations"]
 ---
 

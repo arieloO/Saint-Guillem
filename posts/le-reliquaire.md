@@ -3,6 +3,7 @@ title: "Reliquaire"
 date: "2016-06-25"
 image: null
 section: "autre"
+carousel: null
 tags: ["mobilier"]
 ---
 

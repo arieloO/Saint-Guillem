@@ -3,6 +3,7 @@ title: "Le retable"
 date: "2019-07-01"
 image: "/images/retable-20190730-003-png.png"
 section: "restaurations"
+carousel: null
 tags: ["restaurations"]
 ---
 

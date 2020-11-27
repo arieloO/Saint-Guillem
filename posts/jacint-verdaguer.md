@@ -3,6 +3,7 @@ title: "Jacint Verdaguer à Saint-Guillem"
 date: "2014-11-25"
 image: null
 section: "histoire"
+carousel: null
 tags: ["histoire"]
 ---
 

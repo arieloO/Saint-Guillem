@@ -3,6 +3,7 @@ title: "l'autel"
 date: "2016-10-12"
 image: null
 section: "histoire"
+carousel: null
 tags: ["histoire"]
 ---
 

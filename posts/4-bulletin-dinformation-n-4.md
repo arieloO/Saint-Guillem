@@ -3,6 +3,7 @@ title: "bulletin d'information n°4"
 date: "2014-05-01"
 image: null
 section: "actualite"
+carousel: null
 tags: ["actualite"]
 ---
 
