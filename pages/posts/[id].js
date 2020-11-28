@@ -1,11 +1,11 @@
-import Head from "next/head";
-import Link from "next/link";
-import Layout from "../../components/layout";
-import { getAllPostIds, getPostData } from "../../lib/posts";
-import Date from "../../components/date";
-import utilStyles from "../../styles/utils.module.css";
-import tagToPath from "../../lib/tagToPath";
-import Carousel from "../../components/carousel";
+import Head from 'next/head';
+import Link from 'next/link';
+import Layout from '../../components/layout';
+import { getAllPostIds, getPostData } from '../../lib/posts';
+import Date from '../../components/date';
+import utilStyles from '../../styles/utils.module.css';
+import tagToPath from '../../lib/tagToPath';
+import Carousel from '../../components/carousel';
 
 export default function Post({ postData }) {
   return (
@@ -34,7 +34,7 @@ export default function Post({ postData }) {
         </Link>
       </div>
       {postData.image ? (
-        <Carousel id={postData.id} image={postData.image} />
+        <Carousel id={postData.id} image={postData.images} />
       ) : null}
     </Layout>
   );
