@@ -4,30 +4,40 @@ import utilStyles from '../styles/utils.module.css';
 
 const Carousel = ({ id, images }) => {
   const [selectedIndex, setSelectedIndex] = useState(0);
+
   return (
-    <div alt={`${id} gallerie photo`} className={styles.carousel}>
-      <button
-        type="button"
-        className={styles.button}
-        onClick={() => setSelectedIndex(selectedIndex - 1)}
-      >
-        back
-      </button>
+    <div className={styles.container}>
+      <div alt={`${id} gallerie photo`} className={styles.carousel}>
+        <div className={styles.imageDisplay}>
+          <img
+            className={styles.image}
+            alt={id}
+            src={`/images/${images[selectedIndex]}`}
+          />
+        </div>
 
-      <div className={styles.imageDisplay}>
-        {/* {images.map(imgId => (
-          <img alt={imgId} src={`/images/${imgId}`} />
-        ))} */}
-        {<img alt={id} src={`/images/${images[selectedIndex]}`} />}
+        <div className={styles.overlay}>
+          <button
+            hidden={selectedIndex === 0}
+            type="button"
+            className={styles.button}
+            id={styles.backButton}
+            onClick={() => setSelectedIndex(selectedIndex - 1)}
+          >
+            ᗏ
+          </button>
+          <div className={styles.filler} />
+          <button
+            hidden={selectedIndex - 1 === images.length}
+            type="button"
+            className={styles.button}
+            id={styles.forwardButton}
+            onClick={() => setSelectedIndex(selectedIndex + 1)}
+          >
+            ᗌ
+          </button>
+        </div>
       </div>
-
-      <button
-        type="button"
-        className={styles.button}
-        onClick={() => setSelectedIndex(selectedIndex + 1)}
-      >
-        forward
-      </button>
     </div>
   );
 };

@@ -1,34 +1,87 @@
-.carousel {
+.container {
+  width: 50vw;
+  max-width: 960px;
+  max-width: 90vw;
+  max-height: 70vh;
+
+}
+
+.fullScreen {
+  position: absolute;
+  top: 0;
+  left: 0;
   width: 100%;
-  min-height: 40vw;
+  height: 100%;  
+
+}
+
+.carousel {
+  position: relative;
+  z-index: 1;
   background-color: black;
+  display: flex;
+  width: 50vw;
+  height: 70vh;
+  flex-direction: column;
+  justify-content: center;
+  margin: 2px;
+}
+
+.imageDisplay {
+  z-index: 2;
+  width: 100%;
+  height: 100%;
+  margin: 0 auto;
   border-radius: 4px;
+  box-sizing: content-box;
+}
+
+.image {
+  height: 100%;
+  max-width: 100%;
+  object-fit: contain;
+  object-position: center;
+}
+
+.overlay {
+  position: absolute;
+  top: 0;
+  left: 0;
+  z-index: 3;
+    width: 100%;
+  height: 100%;
+  padding: 2px;
+  margin: 0 auto;
+  border-radius: 4px;
+  box-sizing: content-box;
   display: flex;
   flex-direction: row;
   justify-content: space-between;
+  align-items: center;
 }
 
 .button {
   background-color: rgba(136, 136, 136, 0);
   border: none;
+  height: 50px;
   width: 50px;
+  border-radius: 50px;
+  text-shadow: 1px 1px silver;
 }
+
 .button:hover {
   background-color: rgba(151, 151, 151, 0.466);
   border: none;
   width: 50px;
 }
 
-.imageDisplay {
-  flex-direction: row;
-  flex-wrap: wrap;
-  margin: 0;
-  padding: 4px;
+#backButton {
+}
+#forward-button {
 }
 
-.imageDisplay img {
-  width: 100%;
-  padding: 2px;
-  border-radius: 4px;
-  margin: 0;
+.filler {
+  flex-grow: 2;
+  background-color: rgba(136, 136, 136, 0.3);
 }
+
