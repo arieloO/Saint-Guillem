@@ -1,7 +1,7 @@
 ---
 title: "Bulletin d'information n°7"
 date: "2016-01-11"
-image: null
+image: "/images/restauration-toiture_pose-des-dalles-en-gneiss-fin.jpg"
 section: "actualite"
 carousel: null
 tags: ["actualite"]
@@ -24,34 +24,29 @@ Tout cela grâce à vous tous, adhérents, donateurs, artisans, nous ne pourrons
 Laurence Loreto, présidente, et le Conseil d’Administration
 
 <img
-      alt
-      height="442"
-      src="/images/p7162951-jpg_1.jpg"
-      width="529"
+      alt="retrait de la couche de terre sur la voute"
+      src="/images/restauration-toiture_retrait-de-la-couche-de-terre.jpg"
+      class="article-img-small"
     />
 
 <img
-      alt
-      height="488"
-      src="/images/wp-005697.jpg"
-      width="515"
+      alt="fin de la pose des 2000 dalles en gneiss"
+      src="/images/restauration-toiture_pose-des-dalles-en-gneiss-fin.jpg"
+      class="article-img-small"
     />
 
 <img
-      alt
-      height="409"
-      src="/images/21pct3-jpg.jpg"
-      width="536"
+      alt="mur Est restauré, echaffaudage"
+      src="/images/restauration-toiture_echaffaudage-mur-est-restaure.jpg"
+      class="article-img-small"
     />
 
 <img
-      alt
-      height="329"
-      src="/images/img-5601-jpg.jpg"
-      width="529" />
+      alt="la cloche et son support, restaurés"
+      src="/images/restauration-toiture_la-cloche-et-son-support-restaures.jpg"
+      class="article-img-small" />
 
 <img
-      alt
-      height="382"
-      src="/images/p9253772-jpg.jpg"
-      width="522" />
+      alt="restauration du cadran solaire"
+      src="/images/restauration-cadran-solaire.jpg"
+      class="article-img-small" />

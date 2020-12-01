@@ -28,14 +28,17 @@ Téléphoner pour inscription au 06 13 49 76 25 jusqu’au 25 octobre
 Laurence Loreto
 
 <img
-  alt
-  height="271"
-  src="/images/00104-dscf5649-jpg_1.jpg"
-  width="270"
+  alt="retable avant restaration, 2014"
+  src="/images/retable-avant-restauration_2014.jpg"
+  class=‘article-img-cover’
 />
 <img
-  alt
-  height="270"
-  src="/images/retable-3.jpg"
-  width="285"
+  alt="retable avant restaration, 2013"
+  src="/images/retable-avant-restauration_2013.jpg"
+  class="article-img-small"
+/>
+<img
+  alt="retable avant restaration, 2015"
+  src="/images/retable-avant-restauration_2015.jpg"
+  class="article-img-small"
 />

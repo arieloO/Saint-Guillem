@@ -18,7 +18,7 @@ Arc Atura
 
 <img
   alt
-  src="/images/dsc03501.jpg"
+  src="/images/restauration-toiture_début-des-travaux.jpg"
   class="article-img-small" />
 
 Juin 2015 : début des travaux. Dépose des Lloses de gneiss
@@ -32,24 +32,24 @@ Juin 2015 : début des travaux. Dépose des Lloses de gneiss
 Retrait de la couche de terre jusqu’à la voute Découverte de Lloses disposées en écailles de poisson
 
 <img
-  alt
-  src="/images/p7162951-jpg.jpg"
+  alt="retrait de la couche de terre sur la voute"
+  src="/images/restauration-toiture_retrait-de-la-couche-de-terre.jpg"
   class="article-img-small"
 />
 
 Découverte d’une fissure dans la voute
 
 <img
-  alt
-  src="/images/mini-restauration-de-la-toiture-debut-des-travaux-559ce8615952f-1.jpg"
+  alt="fissure dans la voûte"
+  src="/images/restauration-toiture_fissure-dans-la-voute.jpg"
   class="article-img-small"
 />
 
 Pose temporaire d’une bâche de protection
 
 <img
-  alt
-  src="/images/dscn4945.jpg"
+  alt="bâche de protection sur la voûte"
+  src="/images/restauration-toiture_bache-de-protection-sur-la-voute.jpg"
   class="article-img-small"
 />
 
@@ -58,16 +58,16 @@ Septembre 2016 : reprise des travaux
 Réalisation d’une nouvelle chape en mortier de chaux fibré (30 tonnes)
 
 <img
-  alt
-  src="/images/p9253775-jpg.jpg"
+  alt="nouvelle chape en mortier de chaux fibré"
+  src="/images/restauration-toiture_nouvelle-chape-en-mortier-de-chaux-fibré.jpg"
   class="article-img-small"
 />
 
 Pose des 2 000 dalles en gneiss chacune étant choisie comme une pièce de puzzle, selon le modèle original
 
 <img
-  alt
-  src="/images/21oct-jpg.jpg"
+  alt="Pose des dalles en gneiss"
+  src="/images/restauration-toiture_pose-des-dalles-en-gneiss.jpg"
   class="article-img-small"
 />
 
