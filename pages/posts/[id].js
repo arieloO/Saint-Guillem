@@ -33,8 +33,8 @@ export default function Post({ postData }) {
           </a>
         </Link>
       </div>
-      {postData.image ? (
-        <Carousel id={postData.id} image={postData.images} />
+      {postData.carousel ? (
+        <Carousel id={postData.id} images={postData.carousel} />
       ) : null}
     </Layout>
   );

@@ -3,7 +3,7 @@ title: "La toiture"
 date: "2018-07-25"
 image: "/images/dscn4945.jpg"
 section: "restaurations"
-carousel: null
+carousel: ["restauration-toiture_début-des-travaux.jpg", "restauration-toiture_retrait-de-la-couche-de-terre.jpg", "restauration-toiture_fissure-dans-la-voute.jpg", "restauration-toiture_bache-de-protection-sur-la-voute.jpg", "restauration-toiture_nouvelle-chape-en-mortier-de-chaux-fibré.jpg", "restauration-toiture_pose-des-dalles-en-gneiss.jpg", "CLOCHETON-16-mini.jpg", "dsc05410-jpg-mini.jpg"]
 tags: ["restaurations"]
 ---
 
@@ -25,7 +25,7 @@ Juin 2015 : début des travaux. Dépose des Lloses de gneiss
 
 <img
   alt
-  src="/images/mini-restauration-de-la-toiture-debut-des-travaux-55afd3cc68fab.jpg"
+  src="/images/restauration-toiture_debut-des-travaux.jpg"
   class="article-img-small"
 />
 
@@ -75,7 +75,7 @@ Mai 2016 : extension des travaux de la toiture au clocheton avec les mêmes prof
 
 <img
   alt
-  src="/images/CLOCHETON-16.jpg"
+  src="/images/CLOCHETON-16-mini.jpg"
   class="article-img-small"
 />
 
@@ -83,7 +83,7 @@ Juillet 2016 : inauguration officielle de fin des travaux
 
 <img
   alt
-  src="/images/dsc05410-jpg.jpg"
+  src="/images/dsc05410-jpg-mini.jpg"
   class="article-img-small"
 />
 
