@@ -15,7 +15,7 @@ L’entreprise retenue pour la toiture a été la société
 <a href="http://arc-atura-restaurationdubaticatalan.blogspot.fr/" >
 Arc Atura
 </a>.
-
+ 
 <img
   alt
   src="/images/restauration-toiture_début-des-travaux.jpg"

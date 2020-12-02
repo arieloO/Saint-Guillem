@@ -13,7 +13,6 @@ export default function Post({ postData }) {
       <Head>
         <title>{postData.title}</title>
       </Head>
-
       {/* <div
         // style={{ backgroundImage: `url(${postData.cover_image})` }}
         className="article-image-cover"

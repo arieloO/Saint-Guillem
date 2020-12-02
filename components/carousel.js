@@ -10,7 +10,7 @@ const Carousel = ({ id, images }) => {
       <div alt={`${id} gallerie photo`} className={styles.carousel}>
         <div className={styles.imageDisplay}>
           <img
-            className={styles.image}
+            className={styles.imageDisplay}
             alt={id}
             src={`/images/${images[selectedIndex]}`}
           />
@@ -24,7 +24,11 @@ const Carousel = ({ id, images }) => {
             id={styles.backButton}
             onClick={() => setSelectedIndex(selectedIndex - 1)}
           >
-            ᗏ
+            <img
+              alt="back"
+              className={styles.icon}
+              src="/chevron-back-circle-outline.svg"
+            />
           </button>
           <div className={styles.filler} />
           <button
@@ -34,7 +38,11 @@ const Carousel = ({ id, images }) => {
             id={styles.forwardButton}
             onClick={() => setSelectedIndex(selectedIndex + 1)}
           >
-            ᗌ
+            <img
+              alt="forward"
+              className={styles.icon}
+              src="/chevron-forward-circle-outline.svg"
+            />
           </button>
         </div>
       </div>
