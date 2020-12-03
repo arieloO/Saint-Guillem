@@ -1,5 +1,5 @@
 ---
-title: "Petite histoire de la chapelle"
+title: "petite histoire de la chapelle"
 date: "2012-07-14"
 image: "/images/plan-chapelle.jpg"
 section: "autre"
@@ -9,7 +9,11 @@ tags: ["autre", "histoire"]
 
 A l'origine chapelle dédiée à Sainte Marie Madeleine. La Titulaire de Sant Guillem est postérieure. Le 1° teste connu date de 1007 où le comte Cerdagne Guifred fait don au monastere de Saint Martin du Canigou d'un bien, dans le massif du Canigou, confrontant au midi la "Setta de Bacières" et la "Pausa Guillelmi" (Marca Hispanica ch.155, col.964).
 
-<img alt="plan de la chapelle" src="/images/plan-chapelle.jpg" class="article-img-float-left"></img>
+<img
+    alt="plan de la chapelle"
+    src="/images/plan-chapelle.jpg"
+    class="article-img-float-left" 
+    />
 
 Par 'Pausa' il faut entendre un lieu d'hébergement (hôtellerie) où le solitaire abritait les pelerins mais aussi les hommes au travail en ces lieux isolés (mineurs, bûcherons, forgerons, paysans-éleveurs...)
 

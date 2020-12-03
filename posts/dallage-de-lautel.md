@@ -1,7 +1,7 @@
 ---
-title: "Dallage de l'autel"
+title: "dallage de l'autel"
 date: "2017-07-30"
-image: null
+image: "/images/dallage-fin-mini.jpg"
 section: "restaurations"
 carousel: null
 tags: ["restaurations"]
@@ -17,25 +17,15 @@ Arc Atura
 L’arrière de l’autel était situé dans une zone à forte humidité (avant travaux de la toiture) ; les matériaux ont été offerts par l’entreprise Corcoy d’Arles sur Tech.
 
 <img
-  alt
-  src="/images/dallage-2.jpg"
-  style="
-    width: 500px;
-    height: 281px;
-    margin-right: 5px;
-    margin-left: 5px;
-"
+  alt="etat du dallage avant travaux"
+  src="/images/dallage-2-mini.jpg"
+  class="article-img-small"
 />
 
 Le prêtre officiant lors des pèlerinages peut à présent se déplacer sans danger.
 
 <img
-  alt
-  src="/images/dallage-fin.jpg"
-  style="
-    width: 500px;
-    height: 282px;
-    margin-right: 5px;
-    margin-left: 5px;
-  "
+  alt="dallage restauré"
+  src="/images/dallage-fin-mini.jpg"
+  class="article-img-small"
 />
