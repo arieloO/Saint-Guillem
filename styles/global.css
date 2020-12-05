@@ -137,6 +137,7 @@ h1{
   margin: 0 18px 0 0;
   white-space: pre-line;
   font-size: 1.1em;
+  line-height: 0.9em;
   cursor: pointer;
   border-bottom: none;
   transition: border-bottom 3s ease-in;

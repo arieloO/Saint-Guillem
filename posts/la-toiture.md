@@ -1,7 +1,7 @@
 ---
 title: "La toiture"
 date: "2018-07-25"
-image: "/images/dscn4945.jpg"
+image: "/images/restauration-toiture_bache-de-protection-sur-la-voute.jpg"
 section: "restaurations"
 carousel: ["restauration-toiture_début-des-travaux.jpg", "restauration-toiture_retrait-de-la-couche-de-terre.jpg", "restauration-toiture_fissure-dans-la-voute.jpg", "restauration-toiture_bache-de-protection-sur-la-voute.jpg", "restauration-toiture_nouvelle-chape-en-mortier-de-chaux-fibré.jpg", "restauration-toiture_pose-des-dalles-en-gneiss.jpg", "CLOCHETON-16-mini.jpg", "dsc05410-jpg-mini.jpg"]
 tags: ["restaurations"]
