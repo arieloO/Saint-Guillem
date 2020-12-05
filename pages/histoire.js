@@ -14,19 +14,31 @@ export default function FilteredPosts({ allPostsData }) {
 
       <section className={`${utilStyles.header} ${utilStyles.padding1px}`}>
         <div className>
-          <h2 className={`${utilStyles.headingLg} ${utilStyles.previewHeading}`}>Pages d'Histoire</h2>
+          <h2
+            className={`${utilStyles.headingLg} ${utilStyles.previewHeading}`}
+          >
+            Pages d'Histoire
+          </h2>
           <p>
-            Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et
-            dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex
-            ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat
-            nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit
-            anim id est laborum.
+            Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
+            eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim
+            ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut
+            aliquip ex ea commodo consequat. Duis aute irure dolor in
+            reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla
+            pariatur. Excepteur sint occaecat cupidatat non proident, sunt in
+            culpa qui officia deserunt mollit anim id est laborum.
           </p>
         </div>
         <ul className={utilStyles.list}>
           {allPostsData.map(({ id, date, title, image, section, tags }) =>
             tags[0] === 'histoire' ? (
-              <PostPreview id={id} date={date} title={title} image={image} tags={tags} />
+              <PostPreview
+                id={id}
+                date={date}
+                title={title}
+                image={image}
+                tags={tags}
+              />
             ) : (
               undefined
             )

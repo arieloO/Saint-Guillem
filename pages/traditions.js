@@ -7,7 +7,7 @@ import PostPreview from '../components/postPreview';
 
 export default function FilteredPosts({ allPostsData }) {
   return (
-    <Layout section>
+    <Layout section="Traditions">
       <Head>
         <title>Traditions - {siteTitle}</title>
       </Head>
