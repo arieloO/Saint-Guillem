@@ -1,3 +1,5 @@
+@import url('https://fonts.googleapis.com/css2?family=MedievalSharp&display=swap');
+
 html,
 body {
   width: 100%;
@@ -39,6 +41,12 @@ a {
   text-decoration: none;
 }
 
+h1{
+  font-family: 'MedievalSharp', cursive;
+  
+  letter-spacing: -1px;
+}
+
 .inline-a {
   text-decoration: underline;
   color: tomato;
@@ -66,6 +74,9 @@ a {
   z-index: 3;
   background-color: #ffffea;
   color: rgb(0, 0, 0);
+  font-family: 'MedievalSharp', cursive;
+  
+  letter-spacing: -1px;
   box-shadow: 0px 6px 10px rgba(0, 0, 0, 0.205);
   margin: 0;
   padding: 4px;
@@ -81,9 +92,10 @@ a {
 }
 
 .homeLink {
-  font-family: cursive;
+
   font-size: 1.5em;
-  line-height: 0.95;
+  line-height: 1;
+  font-weight: bolder;
   text-shadow: 0px 0px 1px lightgoldenrodyellow;
   flex-grow: 2;
   padding: 2px 6px;
@@ -124,7 +136,6 @@ a {
   padding: 2px 2px 2px 2px;
   margin: 0 18px 0 0;
   white-space: pre-line;
-  font-family: cursive;
   font-size: 1.1em;
   cursor: pointer;
   border-bottom: none;
