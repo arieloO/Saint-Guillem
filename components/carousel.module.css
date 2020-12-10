@@ -98,6 +98,7 @@ border: solid 1px transparent;
 
 .button:hover {
   backdrop-filter: blur(1px);
+  background-color: rgba(0, 0, 0, 0.19);
   border-left-color: white;
   border-right-color: white;
   border-radius: 2px;
@@ -105,6 +106,8 @@ border: solid 1px transparent;
   color: black;
   text-shadow: 1px 1px lightgray;
 }
+
+
 
 .button:hover .icon{
 
@@ -116,3 +119,7 @@ border: solid 1px transparent;
   flex-grow: 2;
 }
 
+
+.displayNone{
+  display: none;
+}

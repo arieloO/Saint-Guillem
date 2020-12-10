@@ -4,6 +4,13 @@ import utilStyles from '../styles/utils.module.css';
 
 const Carousel = ({ id, images }) => {
   const [selectedIndex, setSelectedIndex] = useState(0);
+  const buttonAction = x => {
+    setSelectedIndex(selectedIndex + x);
+  };
+
+  const displayNoneCss = {
+    display: 'none'
+  };
 
   return (
     <div className={styles.container}>
@@ -18,11 +25,11 @@ const Carousel = ({ id, images }) => {
 
         <div className={styles.overlay}>
           <button
-            hidden={selectedIndex === 0}
             type="button"
             className={styles.button}
+            style={selectedIndex === 0 ? displayNoneCss : null}
             id={styles.backButton}
-            onClick={() => setSelectedIndex(selectedIndex - 1)}
+            onClick={() => buttonAction(-1)}
           >
             <img
               alt="back"
@@ -35,8 +42,9 @@ const Carousel = ({ id, images }) => {
             hidden={selectedIndex - 1 === images.length}
             type="button"
             className={styles.button}
+            style={selectedIndex + 1 === images.length ? displayNoneCss : null}
             id={styles.forwardButton}
-            onClick={() => setSelectedIndex(selectedIndex + 1)}
+            onClick={() => buttonAction(1)}
           >
             <img
               alt="forward"
