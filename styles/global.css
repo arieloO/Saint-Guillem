@@ -47,6 +47,18 @@ h1{
   letter-spacing: -1px;
 }
 
+h4 {
+  margin-top: 100px;
+}
+
+h5 {
+  margin-top: 40px;
+  font-weight: normal;
+  font-size: large;
+  text-align: center;
+  text-justify: distribute;
+}
+
 .inline-a {
   text-decoration: underline;
   color: tomato;
@@ -220,12 +232,12 @@ img {
 }
 
 .article-img-small {
+  display: block;
   max-width: 100%;
-  display: inline;
   box-shadow: 0px 6px 10px rgba(0, 0, 0, 0.15);
   max-height: 30vh;
   border-radius: 2px;
-  margin: 4px 4px;
+  margin: 4px auto;
 }
 
 .article-img-float-left {
